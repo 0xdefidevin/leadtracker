@@ -1,16 +1,13 @@
-# title(){return this.options.title||this.options.name}
+# Chrome Extension to Track Sales Leads
 
-## Supporting Scrimba
+Using Vanilla Javascript, HTML, CSS and the chrome.extension API, I built an extension that enables sales reps to track the profile URL's of sales leads.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+There are four button with different functionalities:
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+1. Save Input - Saves text boxt value only if it's a valid link
+2. Save Tab - Saves current broswer tab
+3. Export CSV - Exports all leads into a CSV
+4. Delete All - Delets all leads saved in local storage
 
-	It would also mean the world to us if you share the courses.  
+This was really fun and my first project ever in client side JS.
 
-Happy Coding!
