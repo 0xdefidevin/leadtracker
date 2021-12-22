@@ -2,7 +2,7 @@
 
 Using Vanilla Javascript, HTML, CSS and the chrome.extension API, I built an extension that enables sales reps to track the profile URL's of sales leads.
 
-There are four button with different functionalities:
+There are four buttons with different functionalities:
 
 1. Save Input - Saves text boxt value only if it's a valid link
 2. Save Tab - Saves current broswer tab
